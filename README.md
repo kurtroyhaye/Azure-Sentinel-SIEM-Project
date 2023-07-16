@@ -37,8 +37,8 @@ Connecting to Virtual Machine:  <br/>
 <img src="https://i.imgur.com/otP8Nsa.png" height="80%" width="80%" alt="Virtual Machine"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+View logs in Event Viewer:  <br/>
+<img src="https://i.imgur.com/lg26CqK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
