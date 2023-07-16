@@ -1,1 +1,1 @@
-# SIEM-Azure-Sentinel-Project
+# (SIEM) Azure-Sentinel-Project
