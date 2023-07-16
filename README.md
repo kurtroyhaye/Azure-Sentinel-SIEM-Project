@@ -1,7 +1,7 @@
 <h1>Azure Sentinel (SIEM) </h1>
 
 <h2>Description</h2>
-In this project I setup Azure Sentinel (SIEM) and connect it to a live virtual machine named honey pot. Here we will observe live attacks (RDP Brute Force) from all around the world. We will use also a custom PowerShell script to look up the attackers Geolocation information and plot it on the Azure Sentinel Map!
+In this project I setup Azure Sentinel (SIEM) and connect it to a live virtual machine named honey pot. Here we will observe live attacks (RDP Brute Force) from all around the world. We will also use a custom PowerShell script to look up the attackers Geolocation information and plot it on the Azure Sentinel Map!
 <br />
 
 
@@ -18,20 +18,23 @@ In this project I setup Azure Sentinel (SIEM) and connect it to a live virtual m
 
 <p align="center">
 Microsoft Azure Virtual Machine Setup: <br/>
-<img src="https://i.imgur.com/HlK2MyI.jpg" height="80%" width="80%" alt="Virutal Machine Setup Steps"/>
+<img src="https://i.imgur.com/1CrMhGt.jpg" height="80%" width="80%" alt="Virutal Machine Setup Steps"/>
 <br />
 <br />
 Creating Log Analytics Worspace:  <br/>
-<img src="https://i.imgur.com/gyu5s01.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/YPN2aeR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oM1p1Yb.png" height="80%" width="80%" alt="Log Analytics Worspace"/>
+<img src="https://i.imgur.com/ZWitC0A.png" height="80%" width="80%" alt="Log Analytics Worspace"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Workspace Configuration: <br/>
+<img src="https://i.imgur.com/hafm2p5.png" height="80%" width="80%" alt="Workspace Configuration"/>
+<img src="https://i.imgur.com/vQSkWmW.png" height="80%" width="80%" alt="Workspace Configuration"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Connecting to Virtual Machine:  <br/>
+<img src="https://i.imgur.com/jShPXPr.png" height="80%" width="80%" alt="Virtual Machine"/>
+<img src="https://i.imgur.com/JUyDnNM.png" height="80%" width="80%" alt="Virtual Machine"/>
+<img src="https://i.imgur.com/otP8Nsa.png" height="80%" width="80%" alt="Virtual Machine"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
