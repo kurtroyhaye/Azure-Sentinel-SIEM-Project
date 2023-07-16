@@ -19,13 +19,11 @@ In this project I setup Azure Sentinel (SIEM) and connect it to a live virtual m
 <p align="center">
 Microsoft Azure Virtual Machine Setup: <br/>
 <img src="https://i.imgur.com/HlK2MyI.jpg" height="80%" width="80%" alt="Virutal Machine Setup Steps"/>
-<br/><br/>
-<img src="https://i.imgur.com/swgbW1E.jpg" height="80%" width="80%" alt="Virutal Machine Setup Steps"/>
 <br />
 <br />
- 
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating Log Analytics Worspace:  <br/>
+<img src="https://i.imgur.com/gyu5s01.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YPN2aeR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
