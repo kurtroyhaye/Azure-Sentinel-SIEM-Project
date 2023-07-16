@@ -8,7 +8,7 @@ In this project I setup Azure Sentinel (SIEM) and connect it to a live virtual m
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Mircrosoft Azure</b>
 
 <h2>Environments Used </h2>
 
