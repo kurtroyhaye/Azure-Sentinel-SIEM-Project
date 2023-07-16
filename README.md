@@ -1,7 +1,7 @@
 <h1>Azure Sentinel (SIEM) </h1>
 
 <h2>Description</h2>
-In this project I setup Azure Sentinel (SIEM) and connect it to a live virtual machine named honey pot. Here we will observe live attacks (RDP Brute Force) from all around the world. We will use a custom PowerShell script to look up the attackers Geolocation information and plot it on the Azure Sentinel Map!
+In this project I setup Azure Sentinel (SIEM) and connect it to a live virtual machine named honey pot. Here we will observe live attacks (RDP Brute Force) from all around the world. We will use also a custom PowerShell script to look up the attackers Geolocation information and plot it on the Azure Sentinel Map!
 <br />
 
 
@@ -17,10 +17,13 @@ In this project I setup Azure Sentinel (SIEM) and connect it to a live virtual m
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Microsoft Azure Virtual Machine Setup: <br/>
+<img src="https://i.imgur.com/HlK2MyI.jpg" height="80%" width="80%" alt="Virutal Machine Setup Steps"/>
+<br/><br/>
+<img src="https://i.imgur.com/swgbW1E.jpg" height="80%" width="80%" alt="Virutal Machine Setup Steps"/>
 <br />
 <br />
+ 
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
