@@ -31,7 +31,8 @@ Workspace Configuration: <br/>
 <img src="https://i.imgur.com/vQSkWmW.png" height="80%" width="80%" alt="Workspace Configuration"/>
 <br />
 <br />
-Connecting to Virtual Machine:  <br/>
+Connecting to Virtual Machine:
+ <br/>Firewall was disable to allow VM to be susceptible to attack<br/><br/>
 <img src="https://i.imgur.com/jShPXPr.png" height="80%" width="80%" alt="Virtual Machine"/>
 <img src="https://i.imgur.com/JUyDnNM.png" height="80%" width="80%" alt="Virtual Machine"/>
 <img src="https://i.imgur.com/otP8Nsa.png" height="80%" width="80%" alt="Virtual Machine"/>
@@ -41,8 +42,8 @@ View logs in Event Viewer:  <br/>
 <img src="https://i.imgur.com/lg26CqK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Login to ipgeolocation.io:  <br/>
+<img src="https://i.imgur.com/DRJGL3X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
