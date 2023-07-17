@@ -47,12 +47,24 @@ Login to ipgeolocation.io:  <br/>
 <br />
 <br />
 Execute Custom Security Log Exporter in Powershell: <br/><br/>
-  [https://github.com/kurtroyhaye/Custom-Security-Log-Exporter]
-
- <br/>
+[https://github.com/kurtroyhaye/Custom-Security-Log-Exporter]
+<br/>
 <img src="https://i.imgur.com/IPMJnAR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Create Custom Log (Import Event Log into Log Analytics Workspace):  <br/>
+<img src="https://i.imgur.com/N3Qbd7J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Run custom log in log analytics workspace:  <br/>
+<img src="https://i.imgur.com/sVzyvuJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Extract Raw Data in log analytics workspace:  <br/>
+<img src="https://i.imgur.com/Sa6U9tZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ 
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
