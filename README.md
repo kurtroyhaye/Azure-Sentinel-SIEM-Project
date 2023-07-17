@@ -64,9 +64,13 @@ Extract Raw Data in log analytics workspace:  <br/>
 <img src="https://i.imgur.com/Sa6U9tZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Create Geo Map workbook in Azure Sentinel:  <br/>
+<img src="https://i.imgur.com/ANKwZRQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
  
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
 </p>
 
 <!--
