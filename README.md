@@ -46,6 +46,13 @@ Login to ipgeolocation.io:  <br/>
 <img src="https://i.imgur.com/DRJGL3X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Execute Custom Security Log Exporter in Powershell: <br/><br/>
+  [https://github.com/kurtroyhaye/Custom-Security-Log-Exporter]
+
+ <br/>
+<img src="https://i.imgur.com/IPMJnAR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
